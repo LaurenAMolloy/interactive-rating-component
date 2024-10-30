@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/LaurenAMolloy/interactive-rating-component)
+- Live Site URL: [Add live site URL here](https://laurenamolloy.github.io/interactive-rating-component/)
 
 ## My process
 First, I watched a few tutorials on bootstrap and read the documentation as I wanted to experiment with this to create a responsive layout.
